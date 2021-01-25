@@ -1,4 +1,4 @@
-package utils;
+package org.renewbuy.utils;
 
 public class utilsTime {
 
