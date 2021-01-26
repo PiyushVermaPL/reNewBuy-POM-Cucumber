@@ -5,3 +5,17 @@ R
 "src/test/java/utils/utilsTime.java,1\3\13522e80403554562487eb6355d4f6f8b032a559
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+G
+logs/propertieslogs.log,6\1\61238b15ba74e43a5ef21834a02e7afbbba09d09
+^
+.src/main/java/org/renewbuy/utils/TestBase.java,a\b\ab59af4d84e73a209b6f23631259380883a6c56e
+^
+.src/main/java/org/renewbuy/pages/HomePage.java,8\c\8c7705e5e52e1bb09332f949eccd6ca07a702fc0
+v
+Fsrc/test/java/org/renewbuy/featureFiles/displayNewCarInsurance.feature,1\8\18ecdeebfe17927344e7d5cb869924b1be8a9189
+_
+/src/main/java/org/renewbuy/utils/utilsTime.java,3\2\32800c34ba965a1e3d499f4f1ef423bf4c013fe9
+f
+6src/test/java/org/renewbuy/runnerClasses/RunnerUI.java,4\1\41268a84e5d84c04b0b972960e80e4d2c290a53f
+^
+.src/main/java/org/renewbuy/pages/BasePage.java,f\7\f7cb4765f5ecb8d86c7ba2a0cdd9176fa8367293

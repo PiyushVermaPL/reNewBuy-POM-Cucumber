@@ -1,0 +1,25 @@
+
+{
+java:S1104"YMake implicit_Time a static final constant or non-public and provide accessors if needed.(Õ†é¢øÿÿÿÿ8˜ÒëÏó.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¡ÑØ8˜ÒëÏó.
+u
+java:S3008	"XRename this field "pageload_Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûı¹ú8˜ÒëÏó.
+P
+java:S1444	"3Make this "public static pageload_Time" field final(ûı¹ú8˜ÒëÏó.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡ÑØ8˜ÒëÏó.
+v
+java:S1104
+"YMake explicit_Time a static final constant or non-public and provide accessors if needed.(£¤ô8”°ƒĞó.
+U
+java:S1444"3Make this "public static implicit_Time" field final(Õ†é¢øÿÿÿÿ8˜ÒëÏó.
+u
+java:S3008
+"XRename this field "explicit_Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤ô8”°ƒĞó.
+v
+java:S1104	"YMake pageload_Time a static final constant or non-public and provide accessors if needed.(ûı¹ú8˜ÒëÏó.
+z
+java:S3008"XRename this field "implicit_Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ†é¢øÿÿÿÿ8˜ÒëÏó.
+P
+java:S1444
+"3Make this "public static explicit_Time" field final(£¤ô8”°ƒĞó.
