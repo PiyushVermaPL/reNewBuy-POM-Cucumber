@@ -1,13 +1,14 @@
 package org.renewbuy.pages;
- /***
- * @author verma.piyush
- */
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.renewbuy.utils.TestBase;
 
+/***
+ * @author verma.piyush
+ */
 public class BasePage extends TestBase {
 
     public WebDriver driver;
@@ -36,31 +37,6 @@ public class BasePage extends TestBase {
     //Close the browser incident
     public void tearDown(){
         logger.info("stop the execution and closing the browser");
-        driver.close();
+        driver.quit();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

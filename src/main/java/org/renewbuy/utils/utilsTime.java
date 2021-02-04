@@ -1,8 +1,8 @@
 package org.renewbuy.utils;
- /***
+
+/***
  * @author verma.piyush
  */
-
 public class utilsTime {
 
     public static int implicit_Time = 30;

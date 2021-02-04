@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="121.227">
+    <testcase classname="New Car Insurance functionality from end to end" name="New Car Insurance Scenario" time="120.499">
+        <system-out>
+            <![CDATA[Given user open website for "" URL..........................................passed
+When user can see heading "D2C INSURANCE BROKING PVT. LTD." on Home Page....passed
+Then user can see logo of renewBuy on Home Page.............................passed
+Then user Hover over Motor Insurance then Hover over Car Insurance then clicks on New Car Insurance.passed
+Then user can see heading "D2C INSURANCE BROKING PVT. LTD." on New Car Insurance Page.passed
+Then user wait for "5" seconds to get Pop Up Msg............................passed
+Then user close the POpUp window............................................passed
+Then user enters "hyundai santro" in 'Type Your Vehicle Modal' text field then select complete modalname.passed
+Then user select "2019" year as purchasing year.............................passed
+Then user click on Instant Quote Button.....................................passed
+Then user wait for "15" seconds to page get load............................passed
+Then user changes the Vehicle Modal name as "hyundai fluidic verna".........passed
+Then user wait for "10" seconds to page get Vehicle Modal...................passed
+Then user changes the Registered RTO as "up13"..............................passed
+Then user wait for "10" seconds to page get Registered RTO..................passed
+Then user Updates the Purchasing Date as "10" Month as "Jan" Year as "2019".passed
+Then user wait for "10" seconds to page get Purchasing date.................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

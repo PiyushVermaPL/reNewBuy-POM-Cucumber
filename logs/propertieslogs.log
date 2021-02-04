@@ -1,0 +1,302 @@
+[INFO ] 2021-02-03 21:18:15.970 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 21:18:15.976 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 21:18:15.977 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 21:18:19.319 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 21:18:19.341 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 21:18:19.413 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 21:18:34.674 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 21:18:34.881 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 21:18:35.165 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 21:18:40.901 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 21:18:40.982 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 21:18:46.631 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 21:18:46.802 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 21:18:52.058 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 21:40:59.598 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 21:40:59.604 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 21:40:59.605 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 21:41:02.876 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 21:41:02.901 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 21:41:02.969 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 21:41:16.433 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 21:41:16.789 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 21:41:16.898 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 21:41:25.854 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 21:41:25.922 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 21:41:31.502 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 21:41:31.688 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 21:41:36.953 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:11:25.811 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:11:25.818 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:11:25.819 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:11:28.886 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:11:28.903 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:11:28.998 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:11:47.671 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:11:48.325 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:11:48.436 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:11:53.690 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 22:11:53.793 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 22:11:59.836 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 22:12:00.031 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 22:12:01.339 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:12:18.146 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:12:18.152 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:12:18.152 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:12:21.608 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:12:21.636 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:12:21.710 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:12:38.857 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:12:39.226 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:12:39.929 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:12:40.282 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:13:26.288 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:13:26.296 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:13:26.296 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:13:29.382 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:13:29.404 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:13:29.483 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:13:58.436 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:14:01.563 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:14:05.004 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:14:19.885 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 22:14:20.001 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 22:14:25.545 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 22:14:25.768 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 22:14:31.003 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-03 22:14:32.265 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:25:35.234 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:25:35.241 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:25:35.241 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:25:38.189 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:25:38.208 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:25:38.283 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:25:45.618 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:25:45.800 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:25:45.966 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:25:50.121 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 22:25:50.190 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 22:25:55.771 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 22:25:55.989 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 22:26:01.206 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-03 22:26:02.494 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:38:00.725 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:38:00.731 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:38:00.731 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:38:03.830 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:38:03.853 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:38:04.043 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:38:15.051 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:38:15.220 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:38:15.345 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:38:19.263 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 22:38:19.329 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 22:38:25.033 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 22:38:25.229 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 22:38:30.472 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-03 22:38:31.753 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 22:39:33.379 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 22:39:33.389 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 22:39:33.390 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 22:39:36.558 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 22:39:36.582 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 22:39:36.656 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 22:39:46.575 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 22:39:46.832 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 22:39:46.971 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 22:39:52.304 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 22:39:52.373 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 22:39:59.098 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 23:09:25.086 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:09:25.200 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:09:25.200 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:09:28.834 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:09:28.863 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:09:29.024 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:09:44.915 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:09:45.283 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 23:09:45.416 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 23:10:09.800 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 23:10:09.874 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 23:10:45.351 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 23:37:49.981 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:37:49.988 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:37:49.989 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:37:53.067 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:37:53.090 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:37:53.168 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:38:17.301 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:38:50.180 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:38:50.186 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:38:50.186 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:38:55.997 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:38:56.021 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:38:56.230 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:39:05.235 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:39:05.427 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 23:39:05.549 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 23:39:11.219 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 23:39:11.289 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 23:39:31.013 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 23:46:09.017 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:46:09.022 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:46:09.022 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:46:12.283 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:46:12.319 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:46:12.433 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:46:16.730 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:46:18.318 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 23:46:18.994 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 23:46:22.929 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 23:46:27.994 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-03 23:46:28.095 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 23:46:33.636 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 23:46:33.816 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 23:46:49.055 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-03 23:47:00.283 [main] NewCarInsuranceQuotePage - Registered RTO is taking from feature file
+[INFO ] 2021-02-03 23:47:11.438 [main] NewCarInsuranceQuotePage - updating date 10/Jan/2019 is taking from feature file
+[INFO ] 2021-02-03 23:47:41.854 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 23:50:08.181 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:50:08.186 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:50:08.187 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:50:11.367 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:50:11.397 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:50:11.476 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:50:18.898 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:50:20.880 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 23:50:21.062 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 23:50:24.913 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 23:50:30.026 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-03 23:50:30.094 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 23:50:49.215 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-03 23:51:06.224 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-03 23:51:06.229 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-03 23:51:06.230 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-03 23:51:09.391 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-03 23:51:09.411 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-03 23:51:09.475 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-03 23:51:14.875 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-03 23:51:17.003 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-03 23:51:17.156 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-03 23:51:20.902 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-03 23:51:26.025 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-03 23:51:26.251 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-03 23:51:31.902 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-03 23:51:32.088 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-03 23:51:47.364 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-03 23:51:58.558 [main] NewCarInsuranceQuotePage - Registered RTO is taking from feature file
+[INFO ] 2021-02-03 23:52:09.610 [main] NewCarInsuranceQuotePage - updating date 10/Jan/2019 is taking from feature file
+[INFO ] 2021-02-03 23:52:10.005 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 00:08:18.528 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 00:08:18.543 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 00:08:18.549 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 00:08:22.003 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 00:08:22.049 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 00:08:22.147 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 00:08:27.443 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 00:08:28.916 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 00:08:29.679 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 00:08:40.090 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 00:08:45.190 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 00:08:45.255 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 00:08:50.809 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 00:08:50.993 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 00:09:06.261 [main] NewCarInsuranceQuotePage - Vehicle Name is taking from feature file
+[INFO ] 2021-02-04 00:09:17.391 [main] NewCarInsuranceQuotePage - Registered RTO is taking from feature file
+[INFO ] 2021-02-04 00:09:28.455 [main] NewCarInsuranceQuotePage - updating date 10 is taking from feature file
+[INFO ] 2021-02-04 00:09:28.841 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 00:15:00.167 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 00:15:00.167 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 00:15:00.167 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 00:15:03.341 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 00:15:03.365 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 00:15:03.437 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 00:15:07.296 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 00:15:08.897 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 00:15:09.153 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 00:15:13.012 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 00:15:18.109 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 00:15:18.213 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 00:15:23.850 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 00:15:24.028 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 00:15:39.310 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-04 00:15:50.404 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-04 00:16:01.499 [main] NewCarInsuranceQuotePage - updating date 10 is taking from feature file
+[INFO ] 2021-02-04 00:16:02.066 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 00:20:11.782 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 00:20:11.782 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 00:20:11.790 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 00:20:14.991 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 00:20:15.036 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 00:20:15.122 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 00:20:18.775 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 00:20:21.531 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 00:20:22.774 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 00:20:26.884 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 00:20:31.963 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 00:20:32.098 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 00:20:37.725 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 00:20:37.932 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 00:20:53.220 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-04 00:21:04.307 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-04 00:21:15.399 [main] NewCarInsuranceQuotePage - updating date 10 is taking from feature file
+[INFO ] 2021-02-04 00:21:15.980 [main] NewCarInsuranceQuotePage - updating Month Jan is taking from feature file
+[INFO ] 2021-02-04 00:21:16.140 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 20:00:31.896 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 20:00:31.896 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 20:00:31.896 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 20:00:35.281 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 20:00:35.342 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 20:00:35.424 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 20:00:42.293 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 20:00:42.512 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 20:00:42.704 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 20:01:09.270 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 20:01:14.362 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 20:01:14.446 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 20:01:20.134 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 20:01:20.336 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 20:01:35.660 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-04 20:01:46.951 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-04 20:01:58.008 [main] NewCarInsuranceQuotePage - updating date 10 is taking from feature file
+[INFO ] 2021-02-04 20:01:58.786 [main] NewCarInsuranceQuotePage - updating Month Jan is taking from feature file
+[INFO ] 2021-02-04 20:01:59.218 [main] NewCarInsuranceQuotePage - updating Year 2019 is taking from feature file
+[INFO ] 2021-02-04 20:02:29.636 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 20:04:06.092 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 20:04:06.092 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 20:04:06.092 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 20:04:11.821 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 20:04:11.854 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 20:04:11.921 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 20:04:17.114 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 20:04:18.625 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 20:04:19.539 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 20:04:25.908 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 20:04:30.993 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 20:04:31.103 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 20:04:36.758 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 20:04:36.956 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 20:04:52.234 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-04 20:05:03.302 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-04 20:05:14.306 [main] NewCarInsuranceQuotePage - updating date 10 is taking from feature file
+[INFO ] 2021-02-04 20:05:14.868 [main] NewCarInsuranceQuotePage - updating Month Jan is taking from feature file
+[INFO ] 2021-02-04 20:05:15.207 [main] NewCarInsuranceQuotePage - updating Year 2019 is taking from feature file
+[INFO ] 2021-02-04 20:05:25.695 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-04 20:20:12.596 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-04 20:20:12.611 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-04 20:20:12.611 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-04 20:20:15.729 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-04 20:20:15.787 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-04 20:20:15.850 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-04 20:20:22.173 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-04 20:20:22.344 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-04 20:20:22.501 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-04 20:21:10.791 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-04 20:21:15.892 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-04 20:21:15.988 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-04 20:21:21.659 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-04 20:21:21.851 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-04 20:21:37.095 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-04 20:21:48.239 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-04 20:21:59.330 [main] NewCarInsuranceQuotePage - updating Date 10/Jan/2019 is taking from feature file
+[INFO ] 2021-02-04 20:22:10.689 [main] BasePage - stop the execution and closing the browser

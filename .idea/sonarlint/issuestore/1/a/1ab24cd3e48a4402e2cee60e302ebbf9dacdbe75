@@ -1,0 +1,97 @@
+
+W
+java:S2274â":Remove this call to "wait" or move it into a "while" loop.(ñ©Ò+8„ÕËÈõ.
+{
+java:S2273Ú"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Æ‚ª]8„ÕËÈõ.
+
+java:S2273î"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ù¬‡şÿÿÿÿ8„ÕËÈõ.
+]
+java:S2274Š":Remove this call to "wait" or move it into a "while" loop.(Å­Â„ûÿÿÿÿ8„ÕËÈõ.
+
+java:S2273º"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ì›¸ÿÿÿÿÿ8„ÕËÈõ.
+|
+java:S2273ª"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Ñš¦’8„ÕËÈõ.
+X
+java:S2274Í":Remove this call to "wait" or move it into a "while" loop.(Ÿ¼ÒÚ8„ÕËÈõ.
+X
+java:S2274Ò":Remove this call to "wait" or move it into a "while" loop.(¡î8„ÕËÈõ.
+X
+java:S2274Ó":Remove this call to "wait" or move it into a "while" loop.(ãÍÖÒ8„ÕËÈõ.
+|
+java:S2273ö"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Âõ·Í8„ÕËÈõ.
+X
+java:S2274Ê":Remove this call to "wait" or move it into a "while" loop.(·… Š8„ÕËÈõ.
+X
+java:S2274à":Remove this call to "wait" or move it into a "while" loop.(¬Ù‹Í8„ÕËÈõ.
+W
+java:S2274Ù":Remove this call to "wait" or move it into a "while" loop.(òàÖs8„ÕËÈõ.
+
+java:S2273ú"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ÉƒÒşÿÿÿÿ8„ÕËÈõ.
+|
+java:S2273Ê"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(·… Š8„ÕËÈõ.
+|
+java:S2273š"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(öó‘…8„ÕËÈõ.
+X
+java:S2274ò":Remove this call to "wait" or move it into a "while" loop.(ÏÜ‰î8„ÕËÈõ.
+
+java:S2273‚"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Ùá±èùÿÿÿÿ8„ÕËÈõ.
+
+java:S2273²"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ë…“ãúÿÿÿÿ8„ÕËÈõ.
+{
+java:S2273â"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ñ©Ò+8„ÕËÈõ.
+|
+java:S2273Ó"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ãÍÖÒ8„ÕËÈõ.
+]
+java:S2274²":Remove this call to "wait" or move it into a "while" loop.(ë…“ãúÿÿÿÿ8„ÕËÈõ.
+]
+java:S2274Â":Remove this call to "wait" or move it into a "while" loop.(±Èµüÿÿÿÿ8„ÕËÈõ.
+]
+java:S2274ç":Remove this call to "wait" or move it into a "while" loop.(İ“ããúÿÿÿÿ8„ÕËÈõ.
+W
+java:S2274Ú":Remove this call to "wait" or move it into a "while" loop.(Æ‚ª]8„ÕËÈõ.
+|
+java:S2273à"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(¬Ù‹Í8„ÕËÈõ.
+X
+java:S2274ª":Remove this call to "wait" or move it into a "while" loop.(Ñš¦’8„ÕËÈõ.
+|
+java:S2273Í"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Ÿ¼ÒÚ8„ÕËÈõ.
+X
+java:S2274ê":Remove this call to "wait" or move it into a "while" loop.(“‡‹Ï8„ÕËÈõ.
+{
+java:S2273Ù"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(òàÖs8„ÕËÈõ.
+]
+java:S2274ş":Remove this call to "wait" or move it into a "while" loop.(ªÖõÈûÿÿÿÿ8„ÕËÈõ.
+|
+java:S2273’"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(‡‚©Ø8„ÕËÈõ.
+]
+java:S2274‚":Remove this call to "wait" or move it into a "while" loop.(Ùá±èùÿÿÿÿ8„ÕËÈõ.
+]
+java:S2274î":Remove this call to "wait" or move it into a "while" loop.(ù¬‡şÿÿÿÿ8„ÕËÈõ.
+X
+java:S2274¢":Remove this call to "wait" or move it into a "while" loop.(ĞŠÈ8„ÕËÈõ.
+X
+java:S2274ö":Remove this call to "wait" or move it into a "while" loop.(Âõ·Í8„ÕËÈõ.
+|
+java:S2273Ò"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(¡î8„ÕËÈõ.
+]
+java:S2274º":Remove this call to "wait" or move it into a "while" loop.(ì›¸ÿÿÿÿÿ8„ÕËÈõ.
+X
+java:S2274š":Remove this call to "wait" or move it into a "while" loop.(öó‘…8„ÕËÈõ.
+
+java:S2273ş"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ªÖõÈûÿÿÿÿ8„ÕËÈõ.
+|
+java:S2273ê"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(“‡‹Ï8„ÕËÈõ.
+
+java:S2273Š"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(Å­Â„ûÿÿÿÿ8„ÕËÈõ.
+
+java:S2273ç"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(İ“ããúÿÿÿÿ8„ÕËÈõ.
+
+java:S2273Â"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(±Èµüÿÿÿÿ8„ÕËÈõ.
+|
+java:S2273¢"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ĞŠÈ8„ÕËÈõ.
+|
+java:S2273ò"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ÏÜ‰î8„ÕËÈõ.
+]
+java:S2274ú":Remove this call to "wait" or move it into a "while" loop.(ÉƒÒşÿÿÿÿ8„ÕËÈõ.
+X
+java:S2274’":Remove this call to "wait" or move it into a "while" loop.(‡‚©Ø8„ÕËÈõ.
