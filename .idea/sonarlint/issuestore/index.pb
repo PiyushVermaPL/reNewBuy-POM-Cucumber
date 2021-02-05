@@ -7,12 +7,8 @@ G
 .src/main/java/org/renewbuy/utils/TestBase.java,a\b\ab59af4d84e73a209b6f23631259380883a6c56e
 ^
 .src/main/java/org/renewbuy/pages/HomePage.java,8\c\8c7705e5e52e1bb09332f949eccd6ca07a702fc0
-v
-Fsrc/test/java/org/renewbuy/featureFiles/displayNewCarInsurance.feature,1\8\18ecdeebfe17927344e7d5cb869924b1be8a9189
 _
 /src/main/java/org/renewbuy/utils/utilsTime.java,3\2\32800c34ba965a1e3d499f4f1ef423bf4c013fe9
-f
-6src/test/java/org/renewbuy/runnerClasses/RunnerUI.java,4\1\41268a84e5d84c04b0b972960e80e4d2c290a53f
 ^
 .src/main/java/org/renewbuy/pages/BasePage.java,f\7\f7cb4765f5ecb8d86c7ba2a0cdd9176fa8367293
 l
@@ -89,3 +85,11 @@ s
 Csrc/main/java/org/renewbuy/pages/TwoWheelerInsuranceCalculator.java,3\6\362c73b2d4b53d98532862a6885c3101efe23d64
 n
 >src/main/java/org/renewbuy/pages/NewCarInsuranceQuotePage.java,1\a\1ab24cd3e48a4402e2cee60e302ebbf9dacdbe75
+O
+json_output/cucumberReport.json,6\a\6a4137dca88b5f6ec1807f0eb74c9fdf262a7e21
+g
+7src/test/java/org/renewbuy/runnerClasses/RunnerUI1.java,7\9\79a96fb0adb47673e7dfbf0556758d331d46264d
+w
+Gsrc/test/java/org/renewbuy/featureFiles/displayNewCarInsurance1.feature,f\3\f39cf0f0a1798e4b37095389b7e224fd13febcc6
+w
+Gsrc/test/java/org/renewbuy/stepDefinitions/newCarInsuranceStepDef1.java,3\3\33d164b77c455139aea344710323a1cd57df43fc
