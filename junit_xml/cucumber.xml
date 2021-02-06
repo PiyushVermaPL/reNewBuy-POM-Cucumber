@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.876">
+    <testcase classname="Compare Health Insurance functionality from end to end" name="Compare Health Insurance Scenario" time="0.188">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given user open website for "" URL..........................................undefined
+When user can see heading "D2C INSURANCE BROKING PVT. LTD." on Home Page....undefined
+Then user can see logo of renewBuy on Home Page.............................undefined
+Then user Hover over Health Insurance then clicks on Compare Health Insurance.undefined
+]]>
+        </failure>
+    </testcase>
+</testsuite>

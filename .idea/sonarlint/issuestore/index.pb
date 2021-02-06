@@ -93,3 +93,9 @@ w
 Gsrc/test/java/org/renewbuy/featureFiles/displayNewCarInsurance1.feature,f\3\f39cf0f0a1798e4b37095389b7e224fd13febcc6
 w
 Gsrc/test/java/org/renewbuy/stepDefinitions/newCarInsuranceStepDef1.java,3\3\33d164b77c455139aea344710323a1cd57df43fc
+v
+Fsrc/test/java/org/renewbuy/featureFiles/compareHealthInsurance.feature,8\f\8f927849ffc8d2c390887c6b87c6eae180c340e5
+g
+7src/test/java/org/renewbuy/runnerClasses/RunnerUI2.java,b\9\b9f29e9c31093cef48c849327b9195b913ca0837
+~
+Nsrc/test/java/org/renewbuy/stepDefinitions/CompareHealthInsuranceStepDef2.java,4\e\4e46d5780ccf785200f3920049ff05b21cb39f1d
