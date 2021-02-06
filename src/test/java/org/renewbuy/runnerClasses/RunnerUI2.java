@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src\\test\\java\\org\\renewbuy\\featureFiles\\compareHealthInsurance.feature",
-        glue={"org/renewbuy/stepDefinitions/CompareHealthInsuranceStepDef2"}
-        ,dryRun = true
+        glue={"org.renewbuy.stepDefinitions"}
+        ,dryRun = false
         ,monochrome = true
         ,plugin = {"pretty", "html:test-output/report.html", "json:json_output/cucumberReport.json", "junit:junit_xml/cucumber.xml" }
         ,strict = true

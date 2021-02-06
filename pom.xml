@@ -153,6 +153,7 @@
                         <configuration>
                             <includes>
                                 <include>**/RunnerUI1.java</include>
+                                <!--<include>**/RunnerUI2.java</include>  -->
                             </includes>
                             <!--parallel>methods</parallel>
                             <threadCount>3</threadCount>

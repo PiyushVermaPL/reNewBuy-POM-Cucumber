@@ -11,49 +11,95 @@
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "duration": 5782341900,
+              "status": "passed"
             },
             "line": 7,
-            "name": "user open website for \"\" URL",
-            "match": {},
+            "name": "user open website for \"\" URL CHI",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 23
+                }
+              ],
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.user_open_website_for_URL_CHI(java.lang.String)"
+            },
             "keyword": "Given "
           }
         ]
       },
       {
-        "start_timestamp": "2021-02-06T16:10:09.126Z",
+        "start_timestamp": "2021-02-06T17:28:04.043Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4475990100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.initialisingBrowser()"
+            }
+          }
+        ],
         "line": 10,
         "name": "Compare Health Insurance Scenario",
         "description": "",
         "id": "compare-health-insurance-functionality-from-end-to-end;compare-health-insurance-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 917327200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "duration": 2663218600,
+              "status": "passed"
             },
             "line": 11,
-            "name": "user can see heading \"D2C INSURANCE BROKING PVT. LTD.\" on Home Page",
-            "match": {},
+            "name": "user can see heading \"D2C INSURANCE BROKING PVT. LTD.\" on Home Page CHI",
+            "match": {
+              "arguments": [
+                {
+                  "val": "D2C INSURANCE BROKING PVT. LTD.",
+                  "offset": 22
+                }
+              ],
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.user_can_see_heading_on_Home_Page_CHI(java.lang.String)"
+            },
             "keyword": "When "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 177013900,
+              "status": "passed"
             },
             "line": 12,
-            "name": "user can see logo of renewBuy on Home Page",
-            "match": {},
+            "name": "user can see logo of renewBuy on Home Page CHI",
+            "match": {
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.user_can_see_logo_of_renewBuy_on_Home_Page_CHI()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 3926849500,
+              "status": "passed"
             },
             "line": 13,
-            "name": "user Hover over Health Insurance then clicks on Compare Health Insurance",
-            "match": {},
+            "name": "user Hover over Health Insurance then clicks on Compare Health Insurance CHI",
+            "match": {
+              "location": "org.renewbuy.stepDefinitions.CompareHealthInsuranceStepDef2.user_Hover_over_Health_Insurance_then_clicks_on_Compare_Health_Insurance_CHI()"
+            },
             "keyword": "Then "
           }
         ],

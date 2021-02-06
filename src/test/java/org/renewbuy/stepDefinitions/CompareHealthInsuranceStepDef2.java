@@ -35,23 +35,23 @@ public class CompareHealthInsuranceStepDef2 {
         _init();
     }
 
-    @Given("^user open website for \"(.*)\" URL$")
-    public void user_open_website_for_URL(String stringURL) {
+    @Given("^user open website for \"(.*)\" URL CHI$")
+    public void user_open_website_for_URL_CHI(String stringURL) {
         basePage.launchURL(stringURL);
     }
 
-    @When("^user can see heading \"(.*)\" on Home Page$")
-    public void user_can_see_heading_on_Home_Page(String stringHeading) {
+    @When("^user can see heading \"(.*)\" on Home Page CHI$")
+    public void user_can_see_heading_on_Home_Page_CHI(String stringHeading) {
         Assert.assertTrue(homePage.verifyHeadingTextDisplayed(stringHeading));
     }
 
-    @Then("^user can see logo of renewBuy on Home Page$")
-    public void user_can_see_logo_of_renewBuy_on_Home_Page() {
+    @Then("^user can see logo of renewBuy on Home Page CHI$")
+    public void user_can_see_logo_of_renewBuy_on_Home_Page_CHI() {
         Assert.assertTrue(homePage.verifyRenewBuyLogoDisplayed());
     }
 
-    @Then("^user Hover over Health Insurance then clicks on Compare Health Insurance$")
-    public void user_Hover_over_Health_Insurance_then_clicks_on_Compare_Health_Insurance() {
+    @Then("^user Hover over Health Insurance then clicks on Compare Health Insurance CHI$")
+    public void user_Hover_over_Health_Insurance_then_clicks_on_Compare_Health_Insurance_CHI() {
         homePage.clickOnCompareHealthInsuranceLink();
     }
 

@@ -242,7 +242,7 @@ public class HomePage extends BasePage{
     public MotorInsuranceReminder clickOnMotorInsuranceReminderLink() {
         logger.info("Motor Insurance Reminder link is available");
         Actions action = new Actions(driver);
-        action.moveToElement(motorInsurance).moveToElement(wait(motorInsuranceReminder)).click().build().perform();
+        action.moveToElement(motorInsurance).moveToElement(motorInsuranceReminder).click().build().perform();
         return new MotorInsuranceReminder(driver);
     }
 
@@ -250,7 +250,7 @@ public class HomePage extends BasePage{
     public CompareHealthInsurance clickOnCompareHealthInsuranceLink() {
         logger.info("Compare Health Insurance link is available");
         Actions action = new Actions(driver);
-        action.moveToElement(healthInsurance).moveToElement(wait(compareHealthInsurance)).click().build().perform();
+        action.moveToElement(healthInsurance).moveToElement(compareHealthInsurance).click().build().perform();
         return new CompareHealthInsurance(driver);
     }
 
