@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="18.936">
-    <testcase classname="Compare Health Insurance functionality from end to end" name="Compare Health Insurance Scenario" time="18.154">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.061">
+    <testcase classname="Compare Health Insurance functionality from end to end" name="Compare Health Insurance Scenario" time="14.309">
         <system-out>
             <![CDATA[Given user open website for "" URL CHI......................................passed
 When user can see heading "D2C INSURANCE BROKING PVT. LTD." on Home Page CHI.passed

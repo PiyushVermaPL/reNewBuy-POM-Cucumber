@@ -1,25 +1,25 @@
 
 m
 java:S1104"PMake prop a static final constant or non-public and provide accessors if needed.(²×öü8Ø¢ÍÎó.
-˜
-java:S1845"vRename field "wait" to prevent any misunderstanding/clash with method "wait" defined in superclass "java.lang.Object".(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.
 h
 java:S2184M"FCast one of the operands of this multiplication operation to a "long".(ç·øÿÿÿÿ8ÒÆÆö.
-L
-java:S1444"*Make this "public static wait" field final(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.
-t
-java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8Å³ÊÎó.
-:
-java:S2386"Make this member "protected".(²×öü8Ø¢ÍÎó.
-‚
-java:S1845T"`Rename method "wait" to prevent any misunderstanding/clash with field "wait" defined on line 25.(¿Şš’úÿÿÿÿ8§–¥Ğó.
-r
-java:S1104"PMake wait a static final constant or non-public and provide accessors if needed.(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.
-o
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(–´ŸÈûÿÿÿÿ8ÛéşÎó.
-c
-java:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÔŸĞó.
 N
 java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8Å³ÊÎó.
 G
 java:S1444"*Make this "public static prop" field final(²×öü8Ø¢ÍÎó.
+‚
+java:S1845T"`Rename method "wait" to prevent any misunderstanding/clash with field "wait" defined on line 25.(¿Şš’úÿÿÿÿ8§–¥Ğó.
+c
+java:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÔŸĞó.
+L
+java:S1444"*Make this "public static wait" field final(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(–´ŸÈûÿÿÿÿ8ÛéşÎó.
+:
+java:S2386"Make this member "protected".(²×öü8Ø¢ÍÎó.
+˜
+java:S1845"vRename field "wait" to prevent any misunderstanding/clash with method "wait" defined in superclass "java.lang.Object".(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.
+t
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8Å³ÊÎó.
+r
+java:S1104"PMake wait a static final constant or non-public and provide accessors if needed.(ƒÍ×¨úÿÿÿÿ8‘ÛäÎó.

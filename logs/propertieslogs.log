@@ -358,3 +358,102 @@
 [INFO ] 2021-02-06 22:58:17.178 [main] HomePage - verifying renewBuy Logo is available
 [INFO ] 2021-02-06 22:58:17.355 [main] HomePage - Compare Health Insurance link is available
 [INFO ] 2021-02-06 22:58:21.280 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-06 23:02:38.420 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-06 23:02:38.426 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-06 23:02:38.426 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-06 23:02:41.723 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-06 23:02:41.752 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-06 23:02:41.820 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-06 23:02:44.744 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-06 23:02:46.235 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-06 23:02:46.952 [main] HomePage - Compare Health Insurance link is available
+[INFO ] 2021-02-06 23:02:51.310 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:35:20.894 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:35:21.020 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:35:21.020 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:35:25.085 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:35:25.148 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:35:25.319 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:35:27.071 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:35:28.934 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:35:29.654 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-07 21:35:34.819 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-07 21:35:39.945 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-07 21:35:40.070 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-07 21:35:45.838 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-07 21:35:46.040 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-07 21:36:01.281 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-07 21:36:12.574 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-07 21:36:23.657 [main] NewCarInsuranceQuotePage - updating Date 10/Jan/2019 is taking from feature file
+[INFO ] 2021-02-07 21:36:35.098 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:39:10.701 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:39:10.717 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:39:10.717 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:39:13.670 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:39:13.717 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:39:13.781 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:39:18.981 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:39:20.536 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:39:20.792 [main] HomePage - Compare Health Insurance link is available
+[INFO ] 2021-02-07 21:39:24.913 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:40:54.036 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:40:54.036 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:40:54.036 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:40:56.900 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:40:56.955 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:40:57.064 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:41:00.308 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:41:02.417 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:41:02.577 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-07 21:41:06.421 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-07 21:41:11.544 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-07 21:41:11.666 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-07 21:41:38.007 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:41:39.145 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:41:39.145 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:41:39.145 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:41:40.997 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:41:41.029 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:41:41.037 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:41:43.565 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:41:44.897 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:41:45.041 [main] HomePage - Compare Health Insurance link is available
+[INFO ] 2021-02-07 21:41:49.026 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:42:16.508 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:42:16.523 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:42:16.523 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:42:19.349 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:42:19.380 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:42:19.490 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:42:22.719 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:42:24.132 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:42:24.405 [main] HomePage - Verifying New Car Insurance link is available
+[INFO ] 2021-02-07 21:42:28.065 [main] NewCarInsurance - Verifying Heading 'D2C INSURANCE BROKING PVT. LTD.' On New Car Insurance Home Page
+[INFO ] 2021-02-07 21:42:33.175 [main] NewCarInsurance - Closing Pop Up Window
+[INFO ] 2021-02-07 21:42:33.284 [main] NewCarInsurance - Vehicle Modal Name is taking from feature file
+[INFO ] 2021-02-07 21:42:38.891 [main] NewCarInsurance - Vehicle Purchasing Year is taking from feature file
+[INFO ] 2021-02-07 21:42:39.097 [main] NewCarInsurance - New Car Insurance Instant Quote Button is available
+[INFO ] 2021-02-07 21:42:54.355 [main] NewCarInsuranceQuotePage - Vehicle Name hyundai fluidic verna is taking from feature file
+[INFO ] 2021-02-07 21:43:05.461 [main] NewCarInsuranceQuotePage - Registered RTO up13 is taking from feature file
+[INFO ] 2021-02-07 21:43:16.479 [main] NewCarInsuranceQuotePage - updating Date 10/Jan/2019 is taking from feature file
+[INFO ] 2021-02-07 21:43:27.741 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 21:43:29.199 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 21:43:29.199 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 21:43:29.215 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 21:43:30.938 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 21:43:30.954 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 21:43:30.970 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 21:43:34.461 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 21:43:35.793 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 21:43:36.082 [main] HomePage - Compare Health Insurance link is available
+[INFO ] 2021-02-07 21:43:39.693 [main] BasePage - stop the execution and closing the browser
+[INFO ] 2021-02-07 23:29:26.478 [main] TestBase - initialising browser setup for test execution
+[INFO ] 2021-02-07 23:29:26.486 [main] TestBase - opening chrome browser
+[INFO ] 2021-02-07 23:29:26.486 [main] TestBase - chrome browser property set
+[INFO ] 2021-02-07 23:29:29.055 [main] TestBase - maximizing the browser window
+[INFO ] 2021-02-07 23:29:29.071 [main] TestBase - defined implicit and explicit wait
+[INFO ] 2021-02-07 23:29:29.119 [main] BasePage - launching URL from configure file
+[INFO ] 2021-02-07 23:29:33.699 [main] HomePage - Heading is taking from feature file and verifying Heading Text is available
+[INFO ] 2021-02-07 23:29:34.841 [main] HomePage - verifying renewBuy Logo is available
+[INFO ] 2021-02-07 23:29:34.929 [main] HomePage - Compare Health Insurance link is available
+[INFO ] 2021-02-07 23:29:38.575 [main] BasePage - stop the execution and closing the browser
